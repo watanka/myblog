@@ -1,0 +1,17 @@
+
+  h1{
+    text-align: center;
+  }
+  #title{
+    text-decoration: none;
+    margin:10px;
+  }
+  #post{
+    border-top: 1px double gray;
+    display: grid;
+    grid-template-columns: 130px 1fr;
+  }
+  #list ul li{
+    border-right: 1px solid gray;
+    text-decoration:none}
+  
